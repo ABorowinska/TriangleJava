@@ -1,4 +1,4 @@
-package englishVersion.Trojkat;
+
 import java.util.Scanner;
 
 public class Main {
