@@ -1,4 +1,3 @@
-package englishVersion.Trojkat;
 
 public class Triangle {
 
